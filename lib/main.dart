@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:tujuhhari/pages/first_started.dart';
+import 'pages/first_signin.dart';
 // import 'pages/first_splash.dart';
+// import 'package:tujuhhari/pages/first_started.dart';
 
 void main() {
   runApp(const SevenDays());
@@ -13,7 +14,7 @@ class SevenDays extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: FirstStarted(),
+      home: FirstSignIn(),
     );
   }
 }
