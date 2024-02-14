@@ -1,6 +1,6 @@
 # tujuhhari
 
-A new Flutter project.
+Belajar dari Days 1 sampai Days 7
 
 ## Getting Started
 
